@@ -1,1 +1,1 @@
-worker: bash flash.py
+worker: bash shahm.py
